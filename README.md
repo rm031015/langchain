@@ -1,6 +1,6 @@
 # langchain_tutorial
 
-这是一个使用 FastAPI 構建的項目目，包含 `pipenv` 和 GitHub Actions 部署到 Heroku 的設置。
+使用 FastAPI 構建的項目目，包含 `pipenv` 和 GitHub Actions 部署到 Heroku 的設置。
 
 ## 目錄結構
 
