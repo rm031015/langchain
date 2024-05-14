@@ -1,8 +1,8 @@
-# langchain_tutorial 项目结构
+# langchain_tutorial
 
 这是一个使用 FastAPI 構建的項目目，包含 `pipenv` 和 GitHub Actions 部署到 Heroku 的設置。
 
-## 项目目录结构
+## 目錄結構
 
 ```plaintext
 my_project/
