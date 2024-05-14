@@ -8,6 +8,8 @@ langchain = "*"
 black = "*"
 python-dotenv = "*"
 langchain-openai = "*"
+fastapi = "*"
+uvicorn = "*"
 
 [dev-packages]
 
