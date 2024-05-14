@@ -1,6 +1,6 @@
 # langchain_tutorial 项目结构
 
-这是一个使用 FastAPI 构建的项目，包含 `pipenv` 和 GitHub Actions 部署到 Heroku 的设置。
+这是一个使用 FastAPI 構建的項目目，包含 `pipenv` 和 GitHub Actions 部署到 Heroku 的設置。
 
 ## 项目目录结构
 
